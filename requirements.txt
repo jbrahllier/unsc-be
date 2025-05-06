@@ -1,0 +1,9 @@
+pandas
+pdfplumber
+pymupdf
+unidecode
+docx2pdf
+openpyxl
+requests
+beautifulsoup4  # for bs4
+selenium
